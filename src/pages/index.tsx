@@ -24,6 +24,9 @@ export default function Home() {
               <a href='https://www.linkedin.com/in/duany/' target='_blank' rel="noreferrer">
                 <SiLinkedin/>
               </a>
+              <a href='mailto:duanysouza01@gmail.com' target='_blank' rel="noreferrer">
+              <SiGmail />
+              </a>
             </div>
           </div>
 
@@ -151,7 +154,7 @@ export default function Home() {
                 <p>Duany Candida de Souza</p>
               </div>
             </a>
-            <a className={styles.dada} href='' target='_blank' rel="noreferrer">
+            <a className={styles.dada} href='mailto:duanysouza01@gmail.com' target='_blank' rel="noreferrer">
               <SiGmail />
               <div>
                 <h4>Gmail</h4>
